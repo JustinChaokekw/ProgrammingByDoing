@@ -38,7 +38,7 @@ public class TwoMoreQuestions
       System.out.println("What about the tree in the park? Sounds correct? Anyways., I'll end it here.");
     }
 
-    if (A1.equals("outside") && A2.equals("yes"))
+    if (A1.equals("outside") && A2.equals("no"))
     {
       System.out.println();
       System.out.println("Hmmm...let's say you're thinking about the rock on the side of the road. That's it.");
