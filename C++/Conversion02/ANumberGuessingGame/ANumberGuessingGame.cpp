@@ -9,6 +9,7 @@ int main(){
     int guess;
     int answer = (rand() % 10) + 1;
 
+
     cout << "\nI'm thinking of a number from 1 to 10.";
     cout << "\nYour guess: ";
     cin >> guess;
